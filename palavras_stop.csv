@@ -1,0 +1,708 @@
+﻿letra,tema,tema_normalizado,palavra
+A,Nome,nome,Ana
+A,Animal,animal,Anta
+A,Fruta,fruta,Abacaxi
+A,CEP,cep,Argentina
+A,Objeto,objeto,Anel
+A,Cor,cor,Azul
+A,Profissão,profissao,Advogado
+A,MSE,mse,Amável
+A,FDS,fds,Avatar
+A,Sobremesa,sobremesa,Açaí
+A,JLR,jlr,Alice
+A,App/Marca,app/marca,Amazon
+A,Vestuário,vestuario,Anoraque
+A,Ave,ave,Andorinha
+A,Esporte,esporte,Atletismo
+A,PHC,phc,Antebraço
+A,Árvore,arvore,Aroeira
+A,Comida,comida,Arroz
+A,Influencer,influencer,Alanzoka
+A,Banda,banda,ABBA
+A,Sabor de Sorvete,sabor de sorvete,Açaí
+A,Sabor de Pizza,sabor de pizza,Atum
+A,Palavra em Inglês,palavra em ingles,Apple
+B,Nome,nome,Bruno
+B,Animal,animal,Baleia
+B,Fruta,fruta,Banana
+B,CEP,cep,Brasil
+B,Objeto,objeto,Bola
+B,Cor,cor,Branco
+B,Profissão,profissao,Bombeiro
+B,MSE,mse,Bonita
+B,FDS,fds,Barbie
+B,Sobremesa,sobremesa,Brownie
+B,JLR,jlr,Bíblia
+B,App/Marca,app/marca,Badoo
+B,Vestuário,vestuario,Bermuda
+B,Ave,ave,Bem-te-vi
+B,Esporte,esporte,Basquete
+B,PHC,phc,Braço
+B,Árvore,arvore,Bambu
+B,Comida,comida,Batata
+B,Influencer,influencer,Bianca Andrade
+B,Banda,banda,Beatles
+B,Sabor de Sorvete,sabor de sorvete,Baunilha
+B,Sabor de Pizza,sabor de pizza,Bacon
+B,Palavra em Inglês,palavra em ingles,Book
+C,Nome,nome,Carlos
+C,Animal,animal,Cachorro
+C,Fruta,fruta,Caju
+C,CEP,cep,Curitiba
+C,Objeto,objeto,Cadeira
+C,Cor,cor,Cinza
+C,Profissão,profissao,Cantor
+C,MSE,mse,Chata
+C,FDS,fds,Carros
+C,Sobremesa,sobremesa,Canjica
+C,JLR,jlr,Capricho
+C,App/Marca,app/marca,Canva
+C,Vestuário,vestuario,Camisa
+C,Ave,ave,Canário
+C,Esporte,esporte,Ciclismo
+C,PHC,phc,Cabeça
+C,Árvore,arvore,Cajueiro
+C,Comida,comida,Cuscuz
+C,Influencer,influencer,Casimiro
+C,Banda,banda,Coldplay
+C,Sabor de Sorvete,sabor de sorvete,Chocolate
+C,Sabor de Pizza,sabor de pizza,Calabresa
+C,Palavra em Inglês,palavra em ingles,Cat
+D,Nome,nome,Daniel
+D,Animal,animal,Doninha
+D,Fruta,fruta,Damasco
+D,CEP,cep,Dinamarca
+D,Objeto,objeto,Dado
+D,Cor,cor,Dourado
+D,Profissão,profissao,Dentista
+D,MSE,mse,Divertida
+D,FDS,fds,Duna
+D,Sobremesa,sobremesa,Doce de leite
+D,JLR,jlr,Dom Casmurro
+D,App/Marca,app/marca,Discord
+D,Vestuário,vestuario,Desodorante
+D,Ave,ave,Dodô
+D,Esporte,esporte,Dardo
+D,PHC,phc,Dedo
+D,Árvore,arvore,Dendezeiro
+D,Comida,comida,Dobradinha
+D,Influencer,influencer,Davy Jones
+D,Banda,banda,Detonautas
+D,Sabor de Sorvete,sabor de sorvete,Doce de leite
+D,Sabor de Pizza,sabor de pizza,Dois queijos
+D,Palavra em Inglês,palavra em ingles,Dog
+E,Nome,nome,Eduardo
+E,Animal,animal,Elefante
+E,Fruta,fruta,Embaúba
+E,CEP,cep,Espanha
+E,Objeto,objeto,Escova
+E,Cor,cor,Esmeralda
+E,Profissão,profissao,Engenheiro
+E,MSE,mse,Exigente
+E,FDS,fds,Encanto
+E,Sobremesa,sobremesa,Empada doce
+E,JLR,jlr,Estadão
+E,App/Marca,app/marca,Evernote
+E,Vestuário,vestuario,Espartilho
+E,Ave,ave,Ema
+E,Esporte,esporte,Esgrima
+E,PHC,phc,Estômago
+E,Árvore,arvore,Eucalipto
+E,Comida,comida,Esfiha
+E,Influencer,influencer,Enaldinho
+E,Banda,banda,Evanescence
+E,Sabor de Sorvete,sabor de sorvete,Esmeralda
+E,Sabor de Pizza,sabor de pizza,Escarola
+E,Palavra em Inglês,palavra em ingles,Egg
+F,Nome,nome,Felipe
+F,Animal,animal,Foca
+F,Fruta,fruta,Figo
+F,CEP,cep,França
+F,Objeto,objeto,Faca
+F,Cor,cor,Fúcsia
+F,Profissão,profissao,Fotógrafo
+F,MSE,mse,Feliz
+F,FDS,fds,Frozen
+F,Sobremesa,sobremesa,Flan
+F,JLR,jlr,Folha
+F,App/Marca,app/marca,Facebook
+F,Vestuário,vestuario,Fralda
+F,Ave,ave,Falcão
+F,Esporte,esporte,Futebol
+F,PHC,phc,Fígado
+F,Árvore,arvore,Figueira
+F,Comida,comida,Feijão
+F,Influencer,influencer,Felca
+F,Banda,banda,Foo Fighters
+F,Sabor de Sorvete,sabor de sorvete,Flocos
+F,Sabor de Pizza,sabor de pizza,Frango
+F,Palavra em Inglês,palavra em ingles,Fish
+G,Nome,nome,Gabriel
+G,Animal,animal,Gato
+G,Fruta,fruta,Goiaba
+G,CEP,cep,Goiás
+G,Objeto,objeto,Garrafa
+G,Cor,cor,Grená
+G,Profissão,profissao,Garçom
+G,MSE,mse,Gentil
+G,FDS,fds,Godzilla
+G,Sobremesa,sobremesa,Gelatina
+G,JLR,jlr,Globo
+G,App/Marca,app/marca,Google
+G,Vestuário,vestuario,Gravata
+G,Ave,ave,Galinha
+G,Esporte,esporte,Golfe
+G,PHC,phc,Garganta
+G,Árvore,arvore,Goiabeira
+G,Comida,comida,Galinhada
+G,Influencer,influencer,Gaules
+G,Banda,banda,Green Day
+G,Sabor de Sorvete,sabor de sorvete,Goiaba
+G,Sabor de Pizza,sabor de pizza,Gorgonzola
+G,Palavra em Inglês,palavra em ingles,Game
+H,Nome,nome,
+H,Animal,animal,
+H,Fruta,fruta,
+H,CEP,cep,
+H,Objeto,objeto,
+H,Cor,cor,
+H,Profissão,profissao,
+H,MSE,mse,
+H,FDS,fds,
+H,Sobremesa,sobremesa,
+H,JLR,jlr,
+H,App/Marca,app/marca,
+H,Vestuário,vestuario,
+H,Ave,ave,
+H,Esporte,esporte,
+H,PHC,phc,
+H,Árvore,arvore,
+H,Comida,comida,
+H,Influencer,influencer,
+H,Banda,banda,
+H,Sabor de Sorvete,sabor de sorvete,
+H,Sabor de Pizza,sabor de pizza,
+H,Palavra em Inglês,palavra em ingles,
+I,Nome,nome,
+I,Animal,animal,
+I,Fruta,fruta,
+I,CEP,cep,
+I,Objeto,objeto,
+I,Cor,cor,
+I,Profissão,profissao,
+I,MSE,mse,
+I,FDS,fds,
+I,Sobremesa,sobremesa,
+I,JLR,jlr,
+I,App/Marca,app/marca,
+I,Vestuário,vestuario,
+I,Ave,ave,
+I,Esporte,esporte,
+I,PHC,phc,
+I,Árvore,arvore,
+I,Comida,comida,
+I,Influencer,influencer,
+I,Banda,banda,
+I,Sabor de Sorvete,sabor de sorvete,
+I,Sabor de Pizza,sabor de pizza,
+I,Palavra em Inglês,palavra em ingles,
+J,Nome,nome,
+J,Animal,animal,
+J,Fruta,fruta,
+J,CEP,cep,
+J,Objeto,objeto,
+J,Cor,cor,
+J,Profissão,profissao,
+J,MSE,mse,
+J,FDS,fds,
+J,Sobremesa,sobremesa,
+J,JLR,jlr,
+J,App/Marca,app/marca,
+J,Vestuário,vestuario,
+J,Ave,ave,
+J,Esporte,esporte,
+J,PHC,phc,
+J,Árvore,arvore,
+J,Comida,comida,
+J,Influencer,influencer,
+J,Banda,banda,
+J,Sabor de Sorvete,sabor de sorvete,
+J,Sabor de Pizza,sabor de pizza,
+J,Palavra em Inglês,palavra em ingles,
+K,Nome,nome,
+K,Animal,animal,
+K,Fruta,fruta,
+K,CEP,cep,
+K,Objeto,objeto,
+K,Cor,cor,
+K,Profissão,profissao,
+K,MSE,mse,
+K,FDS,fds,
+K,Sobremesa,sobremesa,
+K,JLR,jlr,
+K,App/Marca,app/marca,
+K,Vestuário,vestuario,
+K,Ave,ave,
+K,Esporte,esporte,
+K,PHC,phc,
+K,Árvore,arvore,
+K,Comida,comida,
+K,Influencer,influencer,
+K,Banda,banda,
+K,Sabor de Sorvete,sabor de sorvete,
+K,Sabor de Pizza,sabor de pizza,
+K,Palavra em Inglês,palavra em ingles,
+L,Nome,nome,
+L,Animal,animal,
+L,Fruta,fruta,
+L,CEP,cep,
+L,Objeto,objeto,
+L,Cor,cor,
+L,Profissão,profissao,
+L,MSE,mse,
+L,FDS,fds,
+L,Sobremesa,sobremesa,
+L,JLR,jlr,
+L,App/Marca,app/marca,
+L,Vestuário,vestuario,
+L,Ave,ave,
+L,Esporte,esporte,
+L,PHC,phc,
+L,Árvore,arvore,
+L,Comida,comida,
+L,Influencer,influencer,
+L,Banda,banda,
+L,Sabor de Sorvete,sabor de sorvete,
+L,Sabor de Pizza,sabor de pizza,
+L,Palavra em Inglês,palavra em ingles,
+M,Nome,nome,Maria
+M,Animal,animal,Macaco
+M,Fruta,fruta,Maçã
+M,CEP,cep,Manaus
+M,Objeto,objeto,Mesa
+M,Cor,cor,Marrom
+M,Profissão,profissao,Médico
+M,MSE,mse,Maluquita
+M,FDS,fds,Madagascar
+M,Sobremesa,sobremesa,Mousse
+M,JLR,jlr,Metrópoles
+M,App/Marca,app/marca,Mercado Livre
+M,Vestuário,vestuario,Meia
+M,Ave,ave,Marreco
+M,Esporte,esporte,Muay Thai
+M,PHC,phc,Mão
+M,Árvore,arvore,Mangueira
+M,Comida,comida,Macarrão
+M,Influencer,influencer,MrBeast
+M,Banda,banda,Metallica
+M,Sabor de Sorvete,sabor de sorvete,Morango
+M,Sabor de Pizza,sabor de pizza,Mussarela
+M,Palavra em Inglês,palavra em ingles,Moon
+N,Nome,nome,
+N,Animal,animal,
+N,Fruta,fruta,
+N,CEP,cep,
+N,Objeto,objeto,
+N,Cor,cor,
+N,Profissão,profissao,
+N,MSE,mse,
+N,FDS,fds,
+N,Sobremesa,sobremesa,
+N,JLR,jlr,
+N,App/Marca,app/marca,
+N,Vestuário,vestuario,
+N,Ave,ave,
+N,Esporte,esporte,
+N,PHC,phc,
+N,Árvore,arvore,
+N,Comida,comida,
+N,Influencer,influencer,
+N,Banda,banda,
+N,Sabor de Sorvete,sabor de sorvete,
+N,Sabor de Pizza,sabor de pizza,
+N,Palavra em Inglês,palavra em ingles,
+O,Nome,nome,Otávio
+O,Animal,animal,Onça
+O,Fruta,fruta,Oxicoco
+O,CEP,cep,Osasco
+O,Objeto,objeto,Óculos
+O,Cor,cor,Ocre
+O,Profissão,profissao,Operador
+O,MSE,mse,Organizada
+O,FDS,fds,Os Simpsons
+O,Sobremesa,sobremesa,Ovo de Páscoa
+O,JLR,jlr,O Globo
+O,App/Marca,app/marca,Opera
+O,Vestuário,vestuario,Óculos
+O,Ave,ave,Ornitorrinco
+O,Esporte,esporte,Orientação
+O,PHC,phc,Olho
+O,Árvore,arvore,Oliveira
+O,Comida,comida,Omelete
+O,Influencer,influencer,Orochinho
+O,Banda,banda,O Rappa
+O,Sabor de Sorvete,sabor de sorvete,Ovomaltine
+O,Sabor de Pizza,sabor de pizza,Ovos
+O,Palavra em Inglês,palavra em ingles,Orange
+P,Nome,nome,Pedro
+P,Animal,animal,Pato
+P,Fruta,fruta,Pera
+P,CEP,cep,Pará
+P,Objeto,objeto,Panela
+P,Cor,cor,Preto
+P,Profissão,profissao,Padeiro
+P,MSE,mse,Paciente
+P,FDS,fds,Pantera Negra
+P,Sobremesa,sobremesa,Pudim
+P,JLR,jlr,Pequeno Príncipe
+P,App/Marca,app/marca,Pinterest
+P,Vestuário,vestuario,Paletó
+P,Ave,ave,Pombo
+P,Esporte,esporte,Parkour
+P,PHC,phc,Perna
+P,Árvore,arvore,Paineira
+P,Comida,comida,Pizza
+P,Influencer,influencer,PewDiePie
+P,Banda,banda,Paramore
+P,Sabor de Sorvete,sabor de sorvete,Pistache
+P,Sabor de Pizza,sabor de pizza,Portuguesa
+P,Palavra em Inglês,palavra em ingles,Pen
+Q,Nome,nome,
+Q,Animal,animal,
+Q,Fruta,fruta,
+Q,CEP,cep,
+Q,Objeto,objeto,
+Q,Cor,cor,
+Q,Profissão,profissao,
+Q,MSE,mse,
+Q,FDS,fds,
+Q,Sobremesa,sobremesa,
+Q,JLR,jlr,
+Q,App/Marca,app/marca,
+Q,Vestuário,vestuario,
+Q,Ave,ave,
+Q,Esporte,esporte,
+Q,PHC,phc,
+Q,Árvore,arvore,
+Q,Comida,comida,
+Q,Influencer,influencer,
+Q,Banda,banda,
+Q,Sabor de Sorvete,sabor de sorvete,
+Q,Sabor de Pizza,sabor de pizza,
+Q,Palavra em Inglês,palavra em ingles,
+R,Nome,nome,Rafael
+R,Animal,animal,Rato
+R,Fruta,fruta,Romã
+R,CEP,cep,Recife
+R,Objeto,objeto,Relógio
+R,Cor,cor,Roxo
+R,Profissão,profissao,Radialista
+R,MSE,mse,Rabugenta
+R,FDS,fds,Ratatouille
+R,Sobremesa,sobremesa,Romeu e Julieta
+R,JLR,jlr,Recreio
+R,App/Marca,app/marca,Reddit
+R,Vestuário,vestuario,Regata
+R,Ave,ave,Rolinha
+R,Esporte,esporte,Rugby
+R,PHC,phc,Rim
+R,Árvore,arvore,Roseira
+R,Comida,comida,Risoto
+R,Influencer,influencer,Rezende
+R,Banda,banda,Radiohead
+R,Sabor de Sorvete,sabor de sorvete,Rum
+R,Sabor de Pizza,sabor de pizza,Rúcula
+R,Palavra em Inglês,palavra em ingles,Rain
+S,Nome,nome,Samuel
+S,Animal,animal,Sapo
+S,Fruta,fruta,Sapoti
+S,CEP,cep,Salvador
+S,Objeto,objeto,Sapato
+S,Cor,cor,Salmão
+S,Profissão,profissao,Soldado
+S,MSE,mse,Sincera
+S,FDS,fds,Shrek
+S,Sobremesa,sobremesa,Sorvete
+S,JLR,jlr,Superinteressante
+S,App/Marca,app/marca,Spotify
+S,Vestuário,vestuario,Saia
+S,Ave,ave,Sabiá
+S,Esporte,esporte,Surfe
+S,PHC,phc,Sobrancelha
+S,Árvore,arvore,Seringueira
+S,Comida,comida,Sushi
+S,Influencer,influencer,Saiko
+S,Banda,banda,Sepultura
+S,Sabor de Sorvete,sabor de sorvete,Sensação
+S,Sabor de Pizza,sabor de pizza,Siciliana
+S,Palavra em Inglês,palavra em ingles,Sun
+T,Nome,nome,Tiago
+T,Animal,animal,Tatu
+T,Fruta,fruta,Tamarindo
+T,CEP,cep,Tocantins
+T,Objeto,objeto,Telefone
+T,Cor,cor,Turquesa
+T,Profissão,profissao,Taxista
+T,MSE,mse,Tranquila
+T,FDS,fds,Titanic
+T,Sobremesa,sobremesa,Torta
+T,JLR,jlr,Turma da Mônica
+T,App/Marca,app/marca,TikTok
+T,Vestuário,vestuario,Touca
+T,Ave,ave,Tucano
+T,Esporte,esporte,Tênis
+T,PHC,phc,Testa
+T,Árvore,arvore,Tamareira
+T,Comida,comida,Tapioca
+T,Influencer,influencer,T3ddy
+T,Banda,banda,Titãs
+T,Sabor de Sorvete,sabor de sorvete,Tapioca
+T,Sabor de Pizza,sabor de pizza,Tomate
+T,Palavra em Inglês,palavra em ingles,Tree
+U,Nome,nome,
+U,Animal,animal,
+U,Fruta,fruta,
+U,CEP,cep,
+U,Objeto,objeto,
+U,Cor,cor,
+U,Profissão,profissao,
+U,MSE,mse,
+U,FDS,fds,
+U,Sobremesa,sobremesa,
+U,JLR,jlr,
+U,App/Marca,app/marca,
+U,Vestuário,vestuario,
+U,Ave,ave,
+U,Esporte,esporte,
+U,PHC,phc,
+U,Árvore,arvore,
+U,Comida,comida,
+U,Influencer,influencer,
+U,Banda,banda,
+U,Sabor de Sorvete,sabor de sorvete,
+U,Sabor de Pizza,sabor de pizza,
+U,Palavra em Inglês,palavra em ingles,
+V,Nome,nome,
+V,Animal,animal,
+V,Fruta,fruta,
+V,CEP,cep,
+V,Objeto,objeto,
+V,Cor,cor,
+V,Profissão,profissao,
+V,MSE,mse,
+V,FDS,fds,
+V,Sobremesa,sobremesa,
+V,JLR,jlr,
+V,App/Marca,app/marca,
+V,Vestuário,vestuario,
+V,Ave,ave,
+V,Esporte,esporte,
+V,PHC,phc,
+V,Árvore,arvore,
+V,Comida,comida,
+V,Influencer,influencer,
+V,Banda,banda,
+V,Sabor de Sorvete,sabor de sorvete,
+V,Sabor de Pizza,sabor de pizza,
+V,Palavra em Inglês,palavra em ingles,
+W,Nome,nome,
+W,Animal,animal,
+W,Fruta,fruta,
+W,CEP,cep,
+W,Objeto,objeto,
+W,Cor,cor,
+W,Profissão,profissao,
+W,MSE,mse,
+W,FDS,fds,
+W,Sobremesa,sobremesa,
+W,JLR,jlr,
+W,App/Marca,app/marca,
+W,Vestuário,vestuario,
+W,Ave,ave,
+W,Esporte,esporte,
+W,PHC,phc,
+W,Árvore,arvore,
+W,Comida,comida,
+W,Influencer,influencer,
+W,Banda,banda,
+W,Sabor de Sorvete,sabor de sorvete,
+W,Sabor de Pizza,sabor de pizza,
+W,Palavra em Inglês,palavra em ingles,
+X,Nome,nome,
+X,Animal,animal,
+X,Fruta,fruta,
+X,CEP,cep,
+X,Objeto,objeto,
+X,Cor,cor,
+X,Profissão,profissao,
+X,MSE,mse,
+X,FDS,fds,
+X,Sobremesa,sobremesa,
+X,JLR,jlr,
+X,App/Marca,app/marca,
+X,Vestuário,vestuario,
+X,Ave,ave,
+X,Esporte,esporte,
+X,PHC,phc,
+X,Árvore,arvore,
+X,Comida,comida,
+X,Influencer,influencer,
+X,Banda,banda,
+X,Sabor de Sorvete,sabor de sorvete,
+X,Sabor de Pizza,sabor de pizza,
+X,Palavra em Inglês,palavra em ingles,
+Y,Nome,nome,
+Y,Animal,animal,
+Y,Fruta,fruta,
+Y,CEP,cep,
+Y,Objeto,objeto,
+Y,Cor,cor,
+Y,Profissão,profissao,
+Y,MSE,mse,
+Y,FDS,fds,
+Y,Sobremesa,sobremesa,
+Y,JLR,jlr,
+Y,App/Marca,app/marca,
+Y,Vestuário,vestuario,
+Y,Ave,ave,
+Y,Esporte,esporte,
+Y,PHC,phc,
+Y,Árvore,arvore,
+Y,Comida,comida,
+Y,Influencer,influencer,
+Y,Banda,banda,
+Y,Sabor de Sorvete,sabor de sorvete,
+Y,Sabor de Pizza,sabor de pizza,
+Y,Palavra em Inglês,palavra em ingles,
+Z,Nome,nome,
+Z,Animal,animal,
+Z,Fruta,fruta,
+Z,CEP,cep,
+Z,Objeto,objeto,
+Z,Cor,cor,
+Z,Profissão,profissao,
+Z,MSE,mse,
+Z,FDS,fds,
+Z,Sobremesa,sobremesa,
+Z,JLR,jlr,
+Z,App/Marca,app/marca,
+Z,Vestuário,vestuario,
+Z,Ave,ave,
+Z,Esporte,esporte,
+Z,PHC,phc,
+Z,Árvore,arvore,
+Z,Comida,comida,
+Z,Influencer,influencer,
+Z,Banda,banda,
+Z,Sabor de Sorvete,sabor de sorvete,
+Z,Sabor de Pizza,sabor de pizza,
+Z,Palavra em Inglês,palavra em ingles,
+A,Doença,doenca,
+A,Personagem Fictício,personagem ficticio,
+A,Verbo,verbo,
+A,Tem na Fazenda,tem na fazenda,
+B,Doença,doenca,
+B,Personagem Fictício,personagem ficticio,
+B,Verbo,verbo,
+B,Tem na Fazenda,tem na fazenda,
+C,Doença,doenca,
+C,Personagem Fictício,personagem ficticio,
+C,Verbo,verbo,
+C,Tem na Fazenda,tem na fazenda,
+D,Doença,doenca,
+D,Personagem Fictício,personagem ficticio,
+D,Verbo,verbo,
+D,Tem na Fazenda,tem na fazenda,
+E,Doença,doenca,
+E,Personagem Fictício,personagem ficticio,
+E,Verbo,verbo,
+E,Tem na Fazenda,tem na fazenda,
+F,Doença,doenca,
+F,Personagem Fictício,personagem ficticio,
+F,Verbo,verbo,
+F,Tem na Fazenda,tem na fazenda,
+G,Doença,doenca,
+G,Personagem Fictício,personagem ficticio,
+G,Verbo,verbo,
+G,Tem na Fazenda,tem na fazenda,
+H,Doença,doenca,
+H,Personagem Fictício,personagem ficticio,
+H,Verbo,verbo,
+H,Tem na Fazenda,tem na fazenda,
+I,Doença,doenca,
+I,Personagem Fictício,personagem ficticio,
+I,Verbo,verbo,
+I,Tem na Fazenda,tem na fazenda,
+J,Doença,doenca,
+J,Personagem Fictício,personagem ficticio,
+J,Verbo,verbo,
+J,Tem na Fazenda,tem na fazenda,
+K,Doença,doenca,
+K,Personagem Fictício,personagem ficticio,
+K,Verbo,verbo,
+K,Tem na Fazenda,tem na fazenda,
+L,Doença,doenca,
+L,Personagem Fictício,personagem ficticio,
+L,Verbo,verbo,
+L,Tem na Fazenda,tem na fazenda,
+M,Doença,doenca,
+M,Personagem Fictício,personagem ficticio,
+M,Verbo,verbo,
+M,Tem na Fazenda,tem na fazenda,
+N,Doença,doenca,
+N,Personagem Fictício,personagem ficticio,
+N,Verbo,verbo,
+N,Tem na Fazenda,tem na fazenda,
+O,Doença,doenca,
+O,Personagem Fictício,personagem ficticio,
+O,Verbo,verbo,
+O,Tem na Fazenda,tem na fazenda,
+P,Doença,doenca,
+P,Personagem Fictício,personagem ficticio,
+P,Verbo,verbo,
+P,Tem na Fazenda,tem na fazenda,
+Q,Doença,doenca,
+Q,Personagem Fictício,personagem ficticio,
+Q,Verbo,verbo,
+Q,Tem na Fazenda,tem na fazenda,
+R,Doença,doenca,
+R,Personagem Fictício,personagem ficticio,
+R,Verbo,verbo,
+R,Tem na Fazenda,tem na fazenda,
+S,Doença,doenca,
+S,Personagem Fictício,personagem ficticio,
+S,Verbo,verbo,
+S,Tem na Fazenda,tem na fazenda,
+T,Doença,doenca,
+T,Personagem Fictício,personagem ficticio,
+T,Verbo,verbo,
+T,Tem na Fazenda,tem na fazenda,
+U,Doença,doenca,
+U,Personagem Fictício,personagem ficticio,
+U,Verbo,verbo,
+U,Tem na Fazenda,tem na fazenda,
+V,Doença,doenca,
+V,Personagem Fictício,personagem ficticio,
+V,Verbo,verbo,
+V,Tem na Fazenda,tem na fazenda,
+W,Doença,doenca,
+W,Personagem Fictício,personagem ficticio,
+W,Verbo,verbo,
+W,Tem na Fazenda,tem na fazenda,
+X,Doença,doenca,
+X,Personagem Fictício,personagem ficticio,
+X,Verbo,verbo,
+X,Tem na Fazenda,tem na fazenda,
+Y,Doença,doenca,
+Y,Personagem Fictício,personagem ficticio,
+Y,Verbo,verbo,
+Y,Tem na Fazenda,tem na fazenda,
+Z,Doença,doenca, zika virus
+Z,Personagem Fictício,personagem ficticio, zoro
+Z,Verbo,verbo, zikar
+Z,Tem na Fazenda,tem na fazenda,
+M,BRINQUEDO,brinquedo,matel
+M,REMÉDIO,remedio,misin
+M,"Cidade, Estado ou País","cidade, estado ou pais",manaus
+M,MEIO DE TRANSPORTE,meio de transporte,metrro
+M,FILME,filme,meu malvado favorito
